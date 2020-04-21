@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-04T09:16:12Z" name="Default suite" finished-at="2020-03-04T09:28:33Z" duration-ms="740742">
+    <groups>
+    </groups>
+    <test started-at="2020-03-04T09:16:12Z" name="Default test" finished-at="2020-03-04T09:28:33Z" duration-ms="740742">
+      <class name="assignment.UrbanLadderLists">
+        <test-method signature="urbanLadder()[pri:0, instance:assignment.UrbanLadderLists@5d740a0f]" started-at="2020-03-04T14:46:12Z" name="urbanLadder" finished-at="2020-03-04T14:58:33Z" duration-ms="740682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urbanLadder -->
+      </class> <!-- assignment.UrbanLadderLists -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
